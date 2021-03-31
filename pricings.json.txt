@@ -1,0 +1,31 @@
+[
+  {
+    "name": "BEGINNER",
+    "amount": "FREE",
+    "benefits": "• 10 Slots For Projects
+\n• Developer Badge For Every Users\n 
+• 15% Increased Faster Projects Verification System\n 
+• No Promotion!",
+    "link": "https://www.paypal.me/rohitkumargd"
+  },
+  {
+    "name": "PREMIUM",
+    "amount": "$0.9",
+    "benefits": "• 25 Slots For Projects\n
+• Premium Badge With Verified User Check
+\n• Promotion For 40 Days Visibility
+\n• 50 Increased Faster Project Verification System
+\n• Ad Reduced 50%",
+    "link": "https://www.paypal.me/mskdev"
+  },
+  {
+    "name": "VIP",
+    "amount": "$1.9",
+    "benefits": "• Unlimited Slots For your Projects
+\n• Full Ad Free Experience
+\n• VIP Badge With Verified User Check
+\n• Promotion For 2 Months Visibility
+\n• 90% Increased Faster Projects Verification System",
+    "link": "https://www.paypal.me/mskdev"
+  }
+]
